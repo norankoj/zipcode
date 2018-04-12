@@ -1,0 +1,4 @@
+select*from ZIPCODE_TBL;
+delete from zipcode_tbl ;
+
+select *from ZIPCODE_TBL where dong like 'Æò¾Èµ¿'

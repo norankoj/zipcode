@@ -1,0 +1,2 @@
+select*from MEMBER_TBR;
+delete MEMBER_TBR where user_id='aaaa';
